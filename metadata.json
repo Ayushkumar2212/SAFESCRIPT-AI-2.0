@@ -1,0 +1,6 @@
+{
+  "name": "SafeScript 2.0",
+  "description": "Clinical Intelligence & Advanced Surgical Logistics Platform with real-time OpsCenter monitoring, telemetry, and bottleneck analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
